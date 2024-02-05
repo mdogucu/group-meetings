@@ -6,6 +6,10 @@
 
 - [Questions (and Answers) for Incorporating Nontraditional Grading in Your Statistics Courses](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2277851)
 
+## Specific Statistics Content 
+
+- [Causal Inference Is Not Just a Statistics Problem](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2276446)
+
 ## Teaching statistics using real data applications
 
 - [Repurposing a Peer-Reviewed Publication to Engage Students in Statistics: An Illustration of Study Design, Data Collection, and Analysis](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2238018)
