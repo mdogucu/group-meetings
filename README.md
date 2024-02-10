@@ -1,13 +1,31 @@
-# Reading Club
+# Statistics and Data Science Education Research Group Meetings
 
-When you pick your reading please link to the manuscript. Do not add pdfs to avoid any copyright issues. 
+:pushpin: DBH 2011   
+:calendar: Wednesdays 4 - 5 pm
 
-| Date | Moderator | Reading |
+You can keep a note of potential reading ideas in the `reading-ideas.md` file. 
+
+When you pick your reading, please link to the manuscript. Do not add (i.e., upload) pdfs to avoid any copyright issues. 
+
+## Winter 2024 Schedule
+
+| Date | Presenter | Presentation |
 |------|-----------|---------|
 |2024-03-06   |Mine Dogucu           | [Teaching the Difficult Past of Statistics to Improve the Future](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2224407)        |
-| 2024-03-13    |           |         |
-| 2024-03-20     |           |         |
-| 2024-04-03     |           |         |
-| 2024-04-10     |           |         |
-| 2024-04-17    |           |         |
-| 2024-04-24     |           |         |
+| 2024-03-13    | Catalina Medina           |         |
+| 2024-03-20     | Federica Zoe Ricci          |         |
+
+## Spring 2024 Schedule
+
+| Date | Presenter | Presentation |
+|------|-----------|---------|
+| 2024-04-03 | |   |
+| 2024-04-10     |  |         |
+| 2024-04-17 |     |         |
+| 2024-04-24 |     |         |
+| 2024-05-01 |     |         |
+| 2024-05-08 |     |         |
+| 2024-05-15 |     |         |
+| 2024-05-22 |     |         |
+| 2024-05-29 |     |         |
+| 2024-06-06 (Thursday) |   |[eCOTS at UCI](https://www.stat.uci.edu/eCOTS/)         |
