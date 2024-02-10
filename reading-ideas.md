@@ -6,6 +6,10 @@
 
 - [Questions (and Answers) for Incorporating Nontraditional Grading in Your Statistics Courses](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2277851)
 
+## Inference
+
+- [The integration of undergraduate students’ informal and formal inferential reasoning](https://link.springer.com/article/10.1007/s10649-022-10205-w)
+
 ## Specific Statistics Content 
 
 - [Causal Inference Is Not Just a Statistics Problem](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2276446)
