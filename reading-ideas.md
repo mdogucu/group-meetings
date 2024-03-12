@@ -13,6 +13,7 @@
 ## Specific Statistics Content 
 
 - [Causal Inference Is Not Just a Statistics Problem](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2276446)
+- [Teaching and learning of probability](https://link.springer.com/article/10.1007/s11858-023-01511-5)
 
 ## Teaching statistics using real data applications
 
