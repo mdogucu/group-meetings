@@ -13,7 +13,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 |------|-----------|---------|
 |2024-03-06   |Mine Dogucu           | [Teaching the Difficult Past of Statistics to Improve the Future](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2224407)        |
 | 2024-03-13    | Catalina Medina           | [Questions (and Answers) for Incorporating Nontraditional Grading in Your Statistics Courses](https://doi.org/10.1080/26939169.2023.2277851)        |
-| 2024-03-20     | Federica Zoe Ricci          |         |
+| 2024-03-20     | Federica Zoe Ricci          | [Investigating College Students' Reasoning With Messages of Risk and Causation](https://doi.org/10.1080/10691898.2018.1456989)        |
 
 ## Spring 2024 Schedule
 
