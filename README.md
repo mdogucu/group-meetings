@@ -19,13 +19,13 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 
 | Date | Presenter | Presentation |
 |------|-----------|---------|
-| 2024-04-03 | |   |
-| 2024-04-10     |  |         |
-| 2024-04-17 |     |         |
-| 2024-04-24 |     |         |
-| 2024-05-01 |     |         |
-| 2024-05-08 |     |         |
-| 2024-05-15 |     |         |
-| 2024-05-22 |     |         |
-| 2024-05-29 |     |         |
+| 2024-04-03 |Harry Bendekgey |   |
+| 2024-04-10     | Jessalyn Sebastian |         |
+| 2024-04-17 | Sinem Demirci    |         |
+| 2024-04-24 | Federica Zoe Ricci    |         |
+| 2024-05-01 | Catalina Medina    |         |
+| 2024-05-08 | Mine Dogucu    |         |
+| 2024-05-15 |  Harry Bendekgey   |         |
+| 2024-05-22 | Federica Zoe Ricci    |         |
+| 2024-05-29 |  comp-data-sci team   |         |
 | 2024-06-06 (Thursday) |   |[eCOTS at UCI](https://www.stat.uci.edu/eCOTS/)         |
