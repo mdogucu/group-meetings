@@ -19,7 +19,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 
 | Date | Presenter | Presentation |
 |------|-----------|---------|
-| 2024-04-03 |Harry Bendekgey |   |
+| 2024-04-03 |Harry Bendekgey | [Teaching and learning of probability](https://link.springer.com/article/10.1007/s11858-023-01511-5)  |
 | 2024-04-10     | Jessalyn Sebastian |         |
 | 2024-04-17 | Sinem Demirci    |         |
 | 2024-04-24 | Federica Zoe Ricci    |         |
