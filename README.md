@@ -24,7 +24,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 | 2024-04-17 | Sinem Demirci    |         |
 | 2024-04-24 | Federica Zoe Ricci    |         |
 | 2024-05-01 | Catalina Medina    |         |
-| 2024-05-08 | Mine Dogucu    |[The integration of undergraduate students’ informal and formal inferential reasoning](https://link.springer.com/article/10.1007/s10649-022-10205-w)         |
+| 2024-05-08 |    |       |
 | 2024-05-15 |  Harry Bendekgey   |         |
 | 2024-05-22 | Federica Zoe Ricci    | eCOTS Beyond presentation        |
 | 2024-05-29 |  comp-data-sci team   | eCOTS Breakout session presentation        |
