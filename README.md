@@ -24,7 +24,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 | 2024-04-17 | Sinem Demirci    |         |
 | 2024-04-24 | Federica Zoe Ricci    |         |
 | 2024-05-01 | Catalina Medina    |         |
-| 2024-05-08 |    |       |
+| 2024-05-08 |  No meeting  |       |
 | 2024-05-15 |  Harry Bendekgey   |         |
 | 2024-05-22 | Federica Zoe Ricci    | eCOTS Beyond presentation        |
 | 2024-05-29 |  comp-data-sci team   | eCOTS Breakout session presentation        |
