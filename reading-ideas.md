@@ -23,3 +23,15 @@
 ## Teaching statistics using real data applications
 
 - [Repurposing a Peer-Reviewed Publication to Engage Students in Statistics: An Illustration of Study Design, Data Collection, and Analysis](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2238018)
+
+## Teaching strategy
+
+- [Using Team-Based Learning to Teach Data Science](https://doi.org/10.1080/26939169.2021.1971587)
+
+## Integrating ethics
+  
+- [Integrating the humanities into data science education: reimagining the introductory data science course](https://doi.org/10.52041/serj.v21i2.42)
+
+## Innovative course materials and tools
+
+- [Teaching Statistics and Data Analysis with R](https://doi.org/10.1080/26939169.2022.2089410)
