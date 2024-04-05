@@ -21,7 +21,8 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 |------|-----------|---------|
 | 2024-04-03 |Harry Bendekgey | [Teaching and learning of probability](https://link.springer.com/article/10.1007/s11858-023-01511-5)  |
 | 2024-04-10     | Jessalyn Sebastian | [The integration of undergraduate students' informal and formal inferential reasoning](https://link.springer.com/article/10.1007/s10649-022-10205-w) |
-| 2024-04-17 | Sinem Demirci    |         |
+| 2024-04-17 | Sinem Demirci    | [1 Introduction to Qualitative Research](https://ebookcentral.proquest.com/lib/uci/reader.action?docID=5630257#ppg=21)
+[2 Assessing and Evaluating Qualitative Research](https://ebookcentral.proquest.com/lib/uci/reader.action?docID=5630257#ppg=37)        |
 | 2024-04-24 | Federica Zoe Ricci    |         |
 | 2024-05-01 | Catalina Medina    |         |
 | 2024-05-08 |  No meeting  |       |
