@@ -39,6 +39,7 @@
 ## How students learn
 
 - [Puzzles in Statistical Reasoning](https://www.tandfonline.com/doi/full/10.1080/10691898.2006.11910576)
+- [What they remember may not be what they understand: A study of mnemonic recall and performance by introductory statistics students](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2334905)
 
 ## Bayesian statistics
 
