@@ -35,6 +35,7 @@
 ## Innovative course materials and tools
 
 - [Teaching Statistics and Data Analysis with R](https://doi.org/10.1080/26939169.2022.2089410)
+- [Increasing Student Access to and Readiness for Statistical Competitions](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2167750)
 
 ## How students learn
 
