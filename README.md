@@ -25,7 +25,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 | 2024-04-25 | Federica Zoe Ricci    | [Repurposing a Peer-Reviewed Publication to Engage Students in Statistics: An Illustration of Study Design, Data Collection, and Analysis](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2238018)        |
 | 2024-05-02 | Catalina Medina    | [Culturally Relevant Data in Teaching Statistics and Data Science Courses](https://doi.org/10.1080/26939169.2023.2249969)        |
 | 2024-05-09 |  No meeting  |       |
-| 2024-05-16 |  Harry Bendekgey   |         |
+| 2024-05-16 |  Harry Bendekgey   |   [Why Bayesian Ideas Should Be Introduced in the Statistics Curricula and How to Do So](https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1841591)      |
 | 2024-05-23 | Federica Zoe Ricci    | eCOTS Beyond presentation        |
 | 2024-05-30 |  comp-data-sci team   | eCOTS Breakout session presentation        |
 | 2024-06-06 (Thursday) |   |[eCOTS at UCI](https://www.stat.uci.edu/eCOTS/)         |
