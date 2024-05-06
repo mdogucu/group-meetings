@@ -10,6 +10,10 @@
 
 - [The integration of undergraduate students’ informal and formal inferential reasoning](https://link.springer.com/article/10.1007/s10649-022-10205-w)
 
+## Instructors
+
+- [Constructivist and Behaviorist Approaches: Development and Initial Evaluation of a Teaching Practice Scale for Introductory Statistics at the College Level](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1057&context=numeracy) 
+
 ## Probability
 
 - [Teaching and learning of probability](https://link.springer.com/article/10.1007/s11858-023-01511-5)
