@@ -12,3 +12,12 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 | Date | Presenter | Presentation |
 |------|-----------|---------|
 |2024-10-02| Mine Dogucu | Meet and greet| 
+|2024-10-09|||
+|2024-10-16|||
+|2024-10-23|||
+|2024-10-30|||
+|2024-11-06|||
+|2024-11-13|||
+|2024-11-20|||
+|2024-11-27||No meeting|
+|2024-12-04|||
