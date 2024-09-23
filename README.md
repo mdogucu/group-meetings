@@ -12,10 +12,10 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 | Date | Presenter | Presentation |
 |------|-----------|---------|
 |2024-10-02| Mine Dogucu | Meet and greet| 
-|2024-10-09|||
-|2024-10-16|||
-|2024-10-23|||
-|2024-10-30|||
+|2024-10-09| Jessalyn ||
+|2024-10-16| Federica | Practice job talk |
+|2024-10-23| Catalina | Practice job talk |
+|2024-10-30| Harry | Practice job talk |
 |2024-11-06|||
 |2024-11-13|||
 |2024-11-20|||
