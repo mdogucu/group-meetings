@@ -14,7 +14,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 |2024-10-02| Mine Dogucu | Meet and greet| 
 |2024-10-09| Jessalyn ||
 |2024-10-16| Federica | Practice job talk |
-|2024-10-23|||
+|2024-10-23| Cadence  ||
 |2024-10-30| Harry | Practice job talk |
 |2024-11-06| Catalina | Practice job talk |
 |2024-11-13|||
