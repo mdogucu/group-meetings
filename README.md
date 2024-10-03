@@ -12,7 +12,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 | Date | Presenter | Presentation |
 |------|-----------|---------|
 |2024-10-02| Mine Dogucu | Meet and greet| 
-|2024-10-09| Jessalyn ||
+|2024-10-09| Jessalyn | [What they remember may not be what they understand: A study of mnemonic recall and performance by introductory statistics students](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2334905) |
 |2024-10-16| Federica | Practice job talk |
 |2024-10-23| Cadence  ||
 |2024-10-30| Harry | Practice job talk |
