@@ -17,7 +17,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 |2024-10-23| Harry  | Practice job talk |
 |2024-10-30| Federica | Practice job talk |
 |2024-11-06| Cadence | [Using Fun in the Statistics Classroom: An Exploratory Study of College Instructors' Hesitations and Motivations](https://www.tandfonline.com/doi/abs/10.1080/10691898.2013.11889659) |
-|2024-11-13| Lynn ||
+|2024-11-13| Lynn | [Towards Culturally Relevant Personalization at Scale: Experiments with Data Science Learners](https://link.springer.com/article/10.1007/s40593-021-00262-2)|
 |2024-11-20| Catalina | Practice job talk |
 |2024-11-27||No meeting|
 |2024-12-04|||
