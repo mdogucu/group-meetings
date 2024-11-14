@@ -23,7 +23,6 @@
 
 ## Teaching strategies
 
-- [Using Team-Based Learning to Teach Data Science](https://doi.org/10.1080/26939169.2021.1971587)
 - [Functional Fun in Statistics Teaching: Resources, Research and Recommendations](https://www.tandfonline.com/doi/full/10.1080/10691898.2008.11889572)
 - [Using Fun in the Statistics Classroom: An Exploratory Study of College Instructors' Hesitations and Motivations](https://www.tandfonline.com/doi/abs/10.1080/10691898.2013.11889659)
 - [Using Classroom Data to Teach Students about Data Cleaning and Testing Assumptions](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2012.00354/full)  
