@@ -37,9 +37,8 @@
 - [Puzzles in Statistical Reasoning](https://www.tandfonline.com/doi/full/10.1080/10691898.2006.11910576)
 - [Robust effects of the efficacy of explicit failure-driven scaffolding in problem-solving prior to instruction: A replication and extension](https://www.sciencedirect.com/science/article/pii/S0959475221000475)
 
-## Teahing with data students care about
+## Teaching with data students care about
 
-- [Towards Culturally Relevant Personalization at Scale: Experiments with Data Science Learners](https://link.springer.com/article/10.1007/s40593-021-00262-2)
 
 ## Bayesian statistics
 
