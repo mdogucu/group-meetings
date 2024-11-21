@@ -20,4 +20,4 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 |2024-11-13| Lynn | [Towards Culturally Relevant Personalization at Scale: Experiments with Data Science Learners](https://link.springer.com/article/10.1007/s40593-021-00262-2)|
 |2024-11-20| Catalina | [Using Team-Based Learning to Teach Data Science](https://doi.org/10.1080/26939169.2021.1971587) |
 |2024-11-27||No meeting|
-|2024-12-04|Shonushka||
+|2024-12-04|Shonushka|[Cooperative Learning in Introductory Statistics: Assessing Students’ Perceptions, Performance, and Learning in Heterogeneous and Homogeneous Groups] (https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2302175)|
