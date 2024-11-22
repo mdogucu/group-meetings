@@ -7,6 +7,23 @@ You can keep a note of potential reading ideas in the `reading-ideas.md` file.
 
 When you pick your reading, please link to the manuscript. Do not add (i.e., upload) pdfs to avoid any copyright issues. 
 
+
+## Winter 2024 Schedule
+
+| Date | Presenter | Presentation |
+|------|-----------|---------|
+|2025-01-07|  | | 
+|2025-01-14|  | | 
+|2025-01-21|  | | 
+|2025-01-28|  | | 
+|2025-02-04|  | | 
+|2025-02-11|  | |
+|2025-02-18|  | |
+|2025-02-25|  | |
+|2025-03-04|  | |
+|2025-03-11|  | |
+
+
 ## Fall 2024 Schedule
 
 | Date | Presenter | Presentation |
