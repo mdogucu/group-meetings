@@ -20,6 +20,7 @@
 
 - [Causal Inference Is Not Just a Statistics Problem](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2276446)
 - [Five Hands-on Experiments for a Design of Experiments Course](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2195889)
+- [A Review of Design of Experiments Courses Offered to Undergraduate Students at American Universities](https://www.tandfonline.com/doi/full/10.1080/00031305.2024.2368803?scroll=top&needAccess=true)
 
 ## Teaching strategies
 
