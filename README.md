@@ -1,7 +1,7 @@
 # Statistics and Data Science Education Research Group Meetings
 
 :pushpin: DBH 2011   
-:calendar: Wednesdays 4 - 5 pm
+:calendar: Tuesdays 4:40 - 5:30 pm
 
 You can keep a note of potential reading ideas in the `reading-ideas.md` file. 
 
