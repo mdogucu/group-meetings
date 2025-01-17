@@ -12,7 +12,6 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 
 | Date | Presenter | Presentation |
 |------|-----------|---------|
-|2025-01-07|  | | 
 |2025-01-14|Mine  |[Students’ misconceptions of statistical inference: A review of the empirical evidence from research on statistics education](https://www.sciencedirect.com/science/article/abs/pii/S1747938X07000164?via%3Dihub) | 
 |2025-01-21| Catalina | Practice teaching demonstration |
 |2025-01-28|[Alan Roberto Vázquez Alcocer](https://research.tec.mx/vivo-tec/display/PID_115457)  |[A review of Design of Experiments courses offered to undergraduate students at American universities](https://www.tandfonline.com/doi/abs/10.1080/00031305.2024.2368803) | 
