@@ -9,6 +9,8 @@
 
 - [Philosophy within Data Science Ethics Courses](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2394542#d1e111)
 - [Undergraduate data science degrees emphasize computer science and statistics but fall short in ethics training and domain-specific context](https://peerj.com/articles/cs-441/)
+- [Enhancing data science ethics through statistical education and practice](https://onlinelibrary.wiley.com/doi/abs/10.1111/insr.12446)
+- [General and Personal Reflections on Succeeding as a Woman Science Researcher](https://www.igpp.de/allg/ZfA/ZfA_2022_2/14%20Utts_General-and-personal-reflections.pdf)
 
 ## Instructors
 
