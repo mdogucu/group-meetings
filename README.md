@@ -14,7 +14,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 |------|-----------|---------|
 |2025-01-14|Mine  |[Students’ misconceptions of statistical inference: A review of the empirical evidence from research on statistics education](https://www.sciencedirect.com/science/article/abs/pii/S1747938X07000164?via%3Dihub) | 
 |2025-01-28|[Alan Roberto Vázquez Alcocer](https://research.tec.mx/vivo-tec/display/PID_115457)  |[A review of Design of Experiments courses offered to undergraduate students at American universities](https://www.tandfonline.com/doi/abs/10.1080/00031305.2024.2368803) | 
-|2025-02-05|  Federica | [Student-Centered Instruction in a Theoretical Statistics Course](https://www.tandfonline.com/doi/full/10.1080/10691898.2009.11889530#d1e94) | 
+|2025-02-05|  Federica [notes](https://github.com/mdogucu/group-meetings/blob/main/discussion-notes/student-centered-theory.qmd)| [Student-Centered Instruction in a Theoretical Statistics Course](https://www.tandfonline.com/doi/full/10.1080/10691898.2009.11889530#d1e94) | 
 |2025-02-12|  | |
 |2025-02-19| Jessalyn and Asha | TBA |
 |2025-02-26|  | |
