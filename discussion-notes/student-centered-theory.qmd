@@ -1,0 +1,89 @@
+---
+title: "Student-Centered Instruction in a Theoretical Statistics Course"
+format: revealjs
+editor: visual
+---
+
+## Paper's context
+
+-   Publication date: 2009 (16 years old!)
+
+-   Author: Samantha Bates Prins (Research University)
+
+## Paper's context
+
+-   Publication date: 2009 (16 years old!)
+
+-   Author: Samantha Bates Prins (Research University)
+
+## Why this paper
+
+-   A lot of work on introductory statistics
+
+-   What about statistical theory?
+
+    -   How do we *better* teach topics like MLE, Law of Large Numbers, Consistency?
+
+. . .
+
+-   Further motivation: In 7 months, I may be teaching Mathematical Statistics
+
+## Do we all agree?
+
+From Introduction:
+
+> Probability and mathematical statistics classes are often described by the students enrolled as being dry and irrelevant.
+
+. . .
+
+Why do *you* think so?
+
+## What is student-centered instruction?
+
+> I considered student-centered instruction in order to have students play an active role in their instruction.
+
+## What is it in this paper?
+
+> The second semester class met Tuesday and Thursday for 75 minutes each day. **Tuesday was teacher-centered with lecture notes written on the chalkboard.** I covered all the assigned sections for the week in this one class. This meant that I made sure to give clear explanations of the concepts and how they should be used but had less time for worked examples. **At the end of Tuesday’s class, I randomly assigned one problem to each of the students to present in class on Thursday.** I made sure that at least one of the chosen in-class problems addressed each of the concepts presented Tuesday and that the in-class problems were standard rather than unusual applications of a concept.
+
+## What is it in this paper?
+
+Check out paper more
+
+## When does it *not* work?
+
+-   Size of the class
+
+-   How comfortable students are with each other
+
+-   How homogeneous is the class' level
+
+-   Outcome highly depends on the specific group of students
+
+-   May want to score participation
+
+## Advantages
+
+-   Similar benefits as oral exam, but less stress (?)
+
+    -   Oral communication is all the more important these days, as students are especially lacking on this
+
+-   Constant feedback on students' understanding
+
+-   Student learn better from each other than from the teacher(\*)
+
+    -   Teacher instruction needs to be complemented by students learning from each other
+
+## What would we want to assess about this method?
+
+-   Does it help students catch up faster than they otherwise would
+
+-   Does it help students learn incoming topics better (they are constantly building solid foundations)?
+
+-   Oral skills. Would students be able
+
+## Other thoughts
+
+-   Hint policy is good (at exam)
+
+    -   but careful with implementation (avoid walk of shame)
