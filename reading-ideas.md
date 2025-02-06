@@ -4,6 +4,7 @@
 
 - [Human Centered Data Science: Ungrading in an Introductory Data Science Course](https://dl.acm.org/doi/abs/10.1145/3587102.3588816?casa_token=wKGLUkJVslcAAAAA:N5-RG8ImShB7IZqtUP2KAs_ula2hTsAVJDuxkmZL7VJMDqyUKxouAxMO9s6ocs9o01nEnKF8Q_Qz3A)
 - [Implementation of Alternative Grading Methods in a Mathematical Statistics Course](https://www.tandfonline.com/doi/epdf/10.1080/26939169.2023.2249956?needAccess=true)
+- [Oral Exams: A More Meaningful Assessment of Students’ Understanding](https://www.tandfonline.com/doi/epdf/10.1080/26939169.2021.1914527?needAccess=true)
 
 ## Ethics
 
