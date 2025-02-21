@@ -17,7 +17,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 |2025-02-05|  Federica [notes](https://github.com/mdogucu/group-meetings/blob/main/discussion-notes/student-centered-theory.qmd)| [Student-Centered Instruction in a Theoretical Statistics Course](https://www.tandfonline.com/doi/full/10.1080/10691898.2009.11889530#d1e94) | 
 |2025-02-12| Shonushka | [The Development of Collaborative Keys to Promote Engagement in Undergraduate Online Asynchronous Statistics Courses](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2448465) |
 |2025-02-19| Jessalyn and Asha | [Teaching Statistics and Data Analysis with R](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2089410#abstract) |
-|2025-02-26| Lynn | TBD |
+|2025-02-26| Lynn | [The Greenhouse Effect: Using Student-Generated Agricultural Data to Warm Up Students for Data-Based Decision Making](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2441672#abstract) |
 |2025-03-05| Harry | |
 |2025-03-12|  | |
 
