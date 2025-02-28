@@ -18,7 +18,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 |2025-02-12| Shonushka | [The Development of Collaborative Keys to Promote Engagement in Undergraduate Online Asynchronous Statistics Courses](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2448465) |
 |2025-02-19| Jessalyn and Asha | [Teaching Statistics and Data Analysis with R](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2089410#abstract) |
 |2025-02-26| Lynn | [The Greenhouse Effect: Using Student-Generated Agricultural Data to Warm Up Students for Data-Based Decision Making](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2441672#abstract) |
-|2025-03-05| Harry | |
+|2025-03-05| Harry | [SIGCSE TS LLM Poster 1](https://dl.acm.org/doi/pdf/10.1145/3641555.3705253) <br> [SIGCSE TS LLM Poster 2](https://dl.acm.org/doi/pdf/10.1145/3641555.3705175) <br> [SIGCSE TS LLM Poster 3](https://dl.acm.org/doi/pdf/10.1145/3641555.3705245) <br> [SIGCSE TS Article](https://dl.acm.org/doi/pdf/10.1145/3641554.3701864) |
 |2025-03-12|  | |
 
 
