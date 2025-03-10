@@ -1,12 +1,25 @@
 # Statistics and Data Science Education Research Group Meetings
 
 :pushpin: online   
-:calendar: Wednesdays 4:00 - 5:00 pm
+:calendar: Mondays 10 - 11 am
 
 You can keep a note of potential reading ideas in the `reading-ideas.md` file. 
 
 When you pick your reading, please link to the manuscript. Do not add (i.e., upload) pdfs to avoid any copyright issues. 
 
+## Spring 2025 Schedule
+
+| Date | Presenter | Presentation |
+|------|-----------|---------|
+|2025-03-31|Mine||
+|2025-04-07|||
+|2025-04-14|||
+|2025-04-21|||
+|2025-04-28|||
+|2025-05-05|||
+|2025-05-12|||
+|2025-05-19|||
+|2025-06-02|||
 
 ## Winter 2025 Schedule
 
@@ -19,7 +32,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 |2025-02-19| Jessalyn and Asha | [Teaching Statistics and Data Analysis with R](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2089410#abstract) |
 |2025-02-26| Lynn | [The Greenhouse Effect: Using Student-Generated Agricultural Data to Warm Up Students for Data-Based Decision Making](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2441672#abstract) |
 |2025-03-05| Harry | [SIGCSE TS LLM Poster 1](https://dl.acm.org/doi/pdf/10.1145/3641555.3705253) <br> [SIGCSE TS LLM Poster 2](https://dl.acm.org/doi/pdf/10.1145/3641555.3705175) <br> [SIGCSE TS LLM Poster 3](https://dl.acm.org/doi/pdf/10.1145/3641555.3705245) <br> [SIGCSE TS Article](https://dl.acm.org/doi/pdf/10.1145/3641554.3701864) |
-|2025-03-12|  | |
+
 
 
 ## Fall 2024 Schedule
