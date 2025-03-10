@@ -1,6 +1,6 @@
 # Statistics and Data Science Education Research Group Meetings
 
-:pushpin: online   
+:pushpin: online or in person (see Slack for details)   
 :calendar: Mondays 10 - 11 am
 
 You can keep a note of potential reading ideas in the `reading-ideas.md` file. 
