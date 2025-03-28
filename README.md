@@ -11,7 +11,8 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 
 | Date | Presenter | Presentation |
 |------|-----------|---------|
-|2025-03-31|Mine||
+|2025-03-31|Mine|[A Systematic Literature Review of Undergraduate Data Science Education Research
+](https://arxiv.org/abs/2403.03387)|
 |2025-04-07|||
 |2025-04-14|||
 |2025-04-21|||
