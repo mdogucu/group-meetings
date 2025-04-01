@@ -19,7 +19,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 |2025-05-05|||
 |2025-05-12|||
 |2025-05-19|||
-|2025-06-02|||
+|2025-06-02|Catalina|Engaging students with statistics through choice of data context (manuscript in progress, to be shared at least 1 week prior...)|
 
 ## Winter 2025 Schedule
 
