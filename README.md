@@ -12,7 +12,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 | Date | Presenter | Presentation |
 |------|-----------|---------|
 |2025-03-31|Mine|[A Systematic Literature Review of Undergraduate Data Science Education Research](https://arxiv.org/abs/2403.03387)|
-|2025-04-07|Asha and Jessalyn|TBA|
+|2025-04-07|Asha and Jessalyn|[Generative AI for Data Science 101: Coding Without Learning to Code](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2432397)|
 |2025-04-14|||
 |2025-04-21|||
 |2025-04-28|||
