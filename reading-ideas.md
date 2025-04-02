@@ -33,13 +33,10 @@
 
 ## Game-based learning
 
-- [The Greenhouse Effect: Using Student-Generated Agricultural Data to Warm Up Students for Data-Based Decision Making](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2441672)
 - [Functional Fun in Statistics Teaching: Resources, Research and Recommendations](https://www.tandfonline.com/doi/full/10.1080/10691898.2008.11889572)
-- [Using Fun in the Statistics Classroom: An Exploratory Study of College Instructors' Hesitations and Motivations](https://www.tandfonline.com/doi/abs/10.1080/10691898.2013.11889659)
 
 ## Innovative course materials and tools
 
-- [Teaching Statistics and Data Analysis with R](https://doi.org/10.1080/26939169.2022.2089410)
 - [Increasing Student Access to and Readiness for Statistical Competitions](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2167750)
 - [What Should We Do Differently in STAT 101?](https://www.tandfonline.com/doi/epdf/10.1080/26939169.2023.2205905?needAccess=true)
 
