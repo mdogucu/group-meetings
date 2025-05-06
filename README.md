@@ -17,7 +17,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 |2025-04-21|Mine|[Philosophy within Data Science Ethics Courses](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2394542)|
 |2025-05-05|Christina and Lynn|[A New Era of Learning: Considerations for ChatGPT as a Tool to Enhance Statistics and Data Science Education](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2223609#abstract)|
 |2025-05-12|Mine|[An Innovative Classroom Approach for Developing Critical Thinkers in the Introductory Statistics Course](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1305293#abstract)|
-|2025-05-19||Federica| [Automated grading workflows for providing personalized feedback to open-ended data science assignments](https://escholarship.org/uc/item/8ck097s5)
+|2025-05-19|Federica| [Automated grading workflows for providing personalized feedback to open-ended data science assignments](https://escholarship.org/uc/item/8ck097s5)
 |2025-06-02|Catalina|Engaging students with statistics through choice of data context (manuscript in progress, to be shared at least 1 week prior...)|
 
 ## Winter 2025 Schedule
