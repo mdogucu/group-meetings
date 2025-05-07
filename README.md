@@ -11,7 +11,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 
 | Date | Presenter | Presentation |
 |------|-----------|---------|
-|2025-03-31|Mine|[A Systematic Literature Review of Undergraduate Data Science Education Research]([https://arxiv.org/abs/2403.03387](https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2486656))|
+|2025-03-31|Mine|[A Systematic Literature Review of Undergraduate Data Science Education Research](https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2486656)|
 |2025-04-07|Asha and Jessalyn|[Generative AI for Data Science 101: Coding Without Learning to Code](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2432397)|
 |2025-04-14|Catalina|[Using real-life data when teaching statistics: Student perceptions of this strategy in an introductory statistics course](https://doi.org/10.52041/serj.v12i2.304)|
 |2025-04-21|Mine|[Philosophy within Data Science Ethics Courses](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2394542)|
