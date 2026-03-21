@@ -12,7 +12,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 | Date | Presenter | Presentation |
 |------|-----------|--------------|
 |2026-03-30|Mine|[Using Grayscale Photos to Introduce High School Statistics Teachers to Reasoning with Digital Image Data](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2351570#abstract)|
-|2026-04-06|||
+|2026-04-06|Asha|[Unraveling the Mystery of Equality in the Null Hypothesis](https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2610942#d1e561)|
 |2026-04-13|||
 |2026-04-20|||
 |2026-04-27||
