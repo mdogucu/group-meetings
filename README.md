@@ -16,7 +16,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 |2026-04-13|Lynn|TBD|
 |2026-04-20|||
 |2026-04-27|Lynn|TBD|
-|2026-05-04|||
-|2026-05-11||
-|2026-05-18|||
+|2026-05-04|Christina|TBH|
+|2026-05-11||| 
+|2026-05-18|Christina|TBH|
 |2026-06-01|Naz|Preliminary research findings|
