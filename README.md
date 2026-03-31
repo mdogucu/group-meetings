@@ -13,7 +13,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 |------|-----------|--------------|
 |2026-03-30|Mine|[Using Grayscale Photos to Introduce High School Statistics Teachers to Reasoning with Digital Image Data](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2351570#abstract)|
 |2026-04-06|Asha|[Unraveling the Mystery of Equality in the Null Hypothesis](https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2610942#d1e561)|
-|2026-04-13|Lynn|TBD|
+|2026-04-13|Lynn|[Promoting Comprehension and Engagement in Introductory Data and Statistics for Blind and Low-Vision Students: A Co-Design Study](https://dl.acm.org/doi/full/10.1145/3706598.3713333)|
 |2026-04-20|Asha|TBD|
 |2026-04-27|Lynn|TBD|
 |2026-05-04|Christina|TBH|
