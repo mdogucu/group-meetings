@@ -16,7 +16,7 @@ When you pick your reading, please link to the manuscript. Do not add (i.e., upl
 |2026-04-13|Lynn|[Promoting Comprehension and Engagement in Introductory Data and Statistics for Blind and Low-Vision Students: A Co-Design Study](https://dl.acm.org/doi/full/10.1145/3706598.3713333)|
 |2026-04-20|Asha|TBD|
 |2026-04-27|Lynn|TBD|
-|2026-05-04|Christina|TBH|
+|2026-05-04|Christina|[Coding Code: Qualitative Methods for Investigating Data Science Skills](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2277847)|
 |2026-05-11||| 
 |2026-05-18|Christina|[Analogies and differences between the logic behind  statistical hypothesis testing and proofs by contradiction:  What can we learn from them?](https://onlinelibrary.wiley.com/doi/full/10.1002/test.70033)|
 |2026-06-01|Naz|Preliminary research findings|
